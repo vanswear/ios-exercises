@@ -24,11 +24,11 @@
     [self chant];
     [self chant];
     
-     [self sunday];
-     [self sunday];
-     [self sunday];
-     [self sunday];
-     [self sunday];
+     [self friday];
+     [self friday];
+     [self friday];
+     [self friday];
+     [self friday];
     return YES;
 }
 
@@ -59,8 +59,8 @@
     NSLog(@"Lions and Tigers and Bears, Oh My!");
 }
 
-- (void)sunday
+- (void)friday
 {
-    NSLog(@"Tomorrow is Monday - Boo Hoo!");
+    NSLog(@"Still trying to understand how to use this ridiculous Git Hub obstacle");
 }
 @end
