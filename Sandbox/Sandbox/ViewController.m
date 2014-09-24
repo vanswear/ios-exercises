@@ -2,8 +2,8 @@
 //  ViewController.m
 //  Sandbox
 //
-//  Created by swearingen on 9/14/14.
-//  Copyright (c) 2014 Bloc. All rights reserved.
+//  Created by swearingen on 9/21/14.
+//  Copyright (c) 2014 Swearingen. All rights reserved.
 //
 
 #import "ViewController.h"

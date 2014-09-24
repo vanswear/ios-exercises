@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "17F9EF1219C63A2300A57653"
+               BlueprintIdentifier = "17B245BA19CF7B3200B50253"
                BuildableName = "Sandbox.app"
                BlueprintName = "Sandbox"
                ReferencedContainer = "container:Sandbox.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "17F9EF2819C63A2300A57653"
+               BlueprintIdentifier = "17B245D019CF7B3200B50253"
                BuildableName = "SandboxTests.xctest"
                BlueprintName = "SandboxTests"
                ReferencedContainer = "container:Sandbox.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "17F9EF2819C63A2300A57653"
+               BlueprintIdentifier = "17B245D019CF7B3200B50253"
                BuildableName = "SandboxTests.xctest"
                BlueprintName = "SandboxTests"
                ReferencedContainer = "container:Sandbox.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "17F9EF1219C63A2300A57653"
+            BlueprintIdentifier = "17B245BA19CF7B3200B50253"
             BuildableName = "Sandbox.app"
             BlueprintName = "Sandbox"
             ReferencedContainer = "container:Sandbox.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "17F9EF1219C63A2300A57653"
+            BlueprintIdentifier = "17B245BA19CF7B3200B50253"
             BuildableName = "Sandbox.app"
             BlueprintName = "Sandbox"
             ReferencedContainer = "container:Sandbox.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "17F9EF1219C63A2300A57653"
+            BlueprintIdentifier = "17B245BA19CF7B3200B50253"
             BuildableName = "Sandbox.app"
             BlueprintName = "Sandbox"
             ReferencedContainer = "container:Sandbox.xcodeproj">

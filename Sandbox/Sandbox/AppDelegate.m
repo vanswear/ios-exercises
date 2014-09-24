@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  Sandbox
 //
-//  Created by swearingen on 9/14/14.
-//  Copyright (c) 2014 Bloc. All rights reserved.
+//  Created by swearingen on 9/21/14.
+//  Copyright (c) 2014 Swearingen. All rights reserved.
 //
 
 #import "AppDelegate.h"
@@ -17,18 +17,15 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    NSLog(@"Hello iPhone!");
-    
-    [self chant];
-    [self chant];
-    [self chant];
-    [self chant];
-    
-     [self friday];
-     [self friday];
-     [self friday];
-     [self friday];
-     [self friday];
+    //NSLog(@"Hello iPhone!");
+    NSLog(@"Hello Nikko!");
+    NSLog(@"People must bug you about the Velvet Underground and Nico all the time");
+
+      [self lou];
+      [self lou];
+      [self lou];
+      [self lou];
+      [self lou];
     return YES;
 }
 
@@ -54,13 +51,10 @@
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
 
-- (void)chant
+- (void) lou
 {
-    NSLog(@"Lions and Tigers and Bears, Oh My!");
+    //Method code here
+    NSLog(@"Lou Reed was one of my favorite songwriters!");
 }
 
-- (void)friday
-{
-    NSLog(@"Still trying to understand how to use this ridiculous Git Hub obstacle");
-}
 @end
